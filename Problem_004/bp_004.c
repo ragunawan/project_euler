@@ -46,7 +46,6 @@ int digitPal(int min, int max) {
 	return y;
 }
 
-
 int main() {
 	int pal;
 	pal = digitPal(100, 999);
