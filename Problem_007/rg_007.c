@@ -5,6 +5,7 @@
     What is the 10 001st prime number?   */
 
 #include <stdio.h>
+// this is a comment
 
 long nthPrime(int num){
     printf("number: %d\n", num); 
